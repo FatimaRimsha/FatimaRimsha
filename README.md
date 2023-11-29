@@ -4,17 +4,17 @@
 
 Greetings! I am Rimsha Fatima, a proactive and versatile professional currently pursuing a Bachelor's in Artificial Intelligence and Data Science 
 at Chaitanya Bharathi Institute of Technology, Hyderabad. My passion lies at the intersection of technology and creativity, and I am dedicated to pushing the boundaries of
-what's possible. 👀 I’m interested in a Data Anlytics Internship to work on realtime projects.
+what's possible. 👀 I’m interested in a Software Development Internship to work on realtime projects.
 
 🎓 **Education**
 
-I am currently immersing myself in a comprehensive curriculum, exploring the nuances of programming, data structures, machine learning, and more.
+I am currently immersing myself in a comprehensive curriculum, exploring the nuances of programming, data structures, Web development, and more.
 My academic journey has equipped me with a strong foundation in theoretical concepts, which I eagerly apply to real-world projects.
 
 💻 **Technical Proficiency**
 
 Proficient in a range of programming languages including Python, Java, and JavaScript, I have hands-on experience with libraries and frameworks such as
-Scikit, Nltk, Numpy, Pandas, and OpenCV. My toolbox also includes expertise in databases, web development (MERN stack), and data visualization tools like PowerBI.
+Scikit, Numpy, Pandas, and OpenCV. My toolbox also includes expertise in databases, web development (MERN stack), and data visualization tools like PowerBI.
 
 🛠️ **Project Highlights**
 
@@ -34,8 +34,8 @@ insights to offer, I am eager to connect and explore synergies. Let's embark on 
 
 📬 **Contact Information**
 
-- LinkedIn: [https://www.linkedin.com/in/rimsha-fatima-92166223b/]
-- Email: [rimshafatima4147@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/rimsha-fatima-92166223b/
+- Email: rimshafatima4147@gmail.com
 
 Looking forward to connecting and building meaningful relationships in the tech community!
 
