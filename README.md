@@ -14,7 +14,7 @@ My academic journey has equipped me with a strong foundation in theoretical conc
 💻 **Technical Proficiency**
 
 Proficient in a range of programming languages including Python, Java, and JavaScript, I have hands-on experience with libraries and frameworks such as
-Scikit, Numpy, Pandas, and OpenCV. My toolbox also includes expertise in databases, web development (MERN stack), and data visualization tools like PowerBI.
+Scikit, Numpy, Pandas, and OpenCV. My toolbox also includes understanding of databases, web development (MERN stack), and data visualization libraries.
 
 🛠️ **Project Highlights**
 
