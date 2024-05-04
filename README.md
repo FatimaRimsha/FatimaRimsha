@@ -4,7 +4,7 @@
 
 Greetings! I am Rimsha Fatima, a proactive and versatile professional currently pursuing a Bachelor's in Artificial Intelligence and Data Science 
 at Chaitanya Bharathi Institute of Technology, Hyderabad. My passion lies at the intersection of technology and creativity, and I am dedicated to pushing the boundaries of
-what's possible. 👀 I’m interested in a Software Development Internship to work on realtime projects.
+what's possible. 👀 I’m interested in a Software Development and Machine Learning Internships to work on realtime projects.
 
 🎓 **Education**
 
