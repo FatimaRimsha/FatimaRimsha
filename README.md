@@ -8,13 +8,13 @@ what's possible. 👀 I’m interested in a Software Development and Machine Lea
 
 🎓 **Education**
 
-I am currently immersing myself in a comprehensive curriculum, exploring the nuances of programming, data structures, Web development, and more.
+I am currently immersing myself in a comprehensive curriculum, exploring data structures, Web development, and Machine learning.
 My academic journey has equipped me with a strong foundation in theoretical concepts, which I eagerly apply to real-world projects.
 
 💻 **Technical Proficiency**
 
 Proficient in a range of programming languages including Python, Java, and JavaScript, I have hands-on experience with libraries and frameworks such as
-Scikit, Numpy, Pandas, and OpenCV. My toolbox also includes understanding of databases, web development (MERN stack), and data visualization libraries.
+Scikit, Numpy, Pandas, OpenCV, Tensorflow and Keras. My toolbox also includes understanding of databases, web development (MERN stack), and data visualization libraries.
 
 🛠️ **Project Highlights**
 
